@@ -4,6 +4,11 @@ def sigmoid(x):
     #Функция активации f(x) = 1 / (1 + e^(-x))
     return 1 / (1 + np.exp(-x))
 
+def deriv_sigmoid(x):
+  # Производная сигмоиды: f'(x) = f(x) * (1 - f(x))
+  fx = sigmoid(x)
+  return fx * (1 - fx)
+
 class Neuron:
     '''Составляющая нейросети'''
 
