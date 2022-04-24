@@ -4,15 +4,13 @@
     </a>
 </p>
 
-<h2 align="center">NEURAL NETWORK</h2>
+<h2 align="center">DJANGO SHOP</h2>
 
 [![Join the chat at https://gitter.im/djangochannel/community](https://badges.gitter.im/djangochannel/community.svg)](https://gitter.im/djangochannel/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ### Описание проекта:
-Продвинутая нейросеть для прогнозов.
-
-[BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+Искусственный интеллект для прогноза падения/роста акций различных компаний.
 
 Copyright (c) 2021-present, lautarianoo - Volf Alexander
 
